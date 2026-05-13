@@ -1,6 +1,6 @@
 # 🌿 Planto – Plant E-commerce UI/UX Design
 
-![App Preview](images/plant.png)
+![App Preview](images/plant.png.png)
 
 ## 📌 Overview
 This is a UI/UX design project for a plant e-commerce website designed using Figma. The goal was to create a clean, modern, and nature-inspired shopping experience.
